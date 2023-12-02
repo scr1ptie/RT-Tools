@@ -1,5 +1,5 @@
-# RT-Tools
+# RT Portable Executables
 
-Tools I compiled and wanted to deploy to victim machines that have internet access. 
+Self-compiled PE's that I wanted to deploy to victim machines that have internet access. 
 
 Not very OPSEC, I know.
